@@ -1,4 +1,4 @@
-# cvd-health-analysis
+# Cardiovascular Disease: Prediction and Self-Perception
 
 In today's data-driven world, leveraging advanced analytics has become a valuable means of deciphering subtle patterns and insights within the healthcare industry. This project seeks to explore these possibilities, applied to a vast [dataset on cardiovascular disease (CVD)](https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset), containing records of patients with diverse lifestyles, habits, and diseases.
 
